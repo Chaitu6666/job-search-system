@@ -1,0 +1,13 @@
+package com.jobsearch.jobbasket_service;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class JobbasketServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
